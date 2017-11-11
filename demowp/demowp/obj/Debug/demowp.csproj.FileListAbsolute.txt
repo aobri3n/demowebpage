@@ -1,0 +1,9 @@
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\bin\demowp.dll.config
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\bin\demowp.dll
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\bin\demowp.pdb
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\obj\Debug\demowp.csprojResolveAssemblyReference.cache
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\obj\Debug\demowp.csproj.CoreCompileInputs.cache
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\obj\Debug\demowp.dll
+C:\Users\obrie\Documents\GitHub\demowebpage\demowp\demowp\obj\Debug\demowp.pdb
